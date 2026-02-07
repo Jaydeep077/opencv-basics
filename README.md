@@ -19,7 +19,7 @@ git clone https://github.com/Jaydeep077/opencv-basics.git
 cd opencv-basics
 ```
 
-Run any Python file:
+Run any Python file Directly:
 ```bash
 python show_image.py
 python show_video.py
@@ -27,6 +27,15 @@ python webcam_basic.py
 ```
 
 ## Or run using main.py:
+Uncomment the module you want to run in ```bash main.py ```, then run python ```bash main.py```.
+
+e.g main.py
+```bash
+# import show_image
+# import show_video
+import draw_shape   # ← runs this example
+```
+
 
 ```bash
 python main.py
