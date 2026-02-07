@@ -35,3 +35,11 @@ python main.py
 Press d to close video or webcam windows
 
 Ensure image and video files are placed in the correct folders before running the scripts
+
+
+## 📖 Medium Article Reference
+
+This repository is created as a hands-on implementation of concepts explained in my Medium article on OpenCV.
+
+🔗 **Article Link:**  
+[Getting Started with OpenCV: Reading Images, Videos, and Rescaling Frames (In-Depth Guide)](https://medium.com/@jaydeepmishra333/getting-started-with-opencv-reading-images-videos-and-rescaling-frames-in-depth-guide-16c616519711)
