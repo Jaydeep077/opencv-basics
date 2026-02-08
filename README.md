@@ -19,7 +19,7 @@ git clone https://github.com/Jaydeep077/opencv-basics.git
 cd opencv-basics
 ```
 
-Run any Python file Directly:
+Run any Python file:
 ```bash
 python show_image.py
 python show_video.py
